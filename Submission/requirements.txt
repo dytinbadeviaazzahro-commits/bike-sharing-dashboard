@@ -1,8 +1,6 @@
-import pandas as pd
-import numpy as np
-
-import matplotlib
-import seaborn as sns
-import streamlit
-import os
-import matplotlib.pyplot as plt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
